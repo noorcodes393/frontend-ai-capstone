@@ -12,6 +12,7 @@ A frontend web development capstone project built with HTML, CSS, and JavaScript
 - [Git Workflow](#git-workflow)
 - [License](#license)
 - [Author](#author)
+- [Project Status](#project-status)
 
 ## Status
 
@@ -101,3 +102,11 @@ This project is licensed under the [MIT License](./LICENSE).
 ## Author
 
 **Noor** — [GitHub](https://github.com/noorcodes393)
+
+## Project Status
+
+| Milestone        | Status        |
+| ---------------- | ------------- |
+| Repository setup | ✅ Complete   |
+| Core layout      | 🚧 In progress |
+| Final deployment | ⏳ Planned    |
