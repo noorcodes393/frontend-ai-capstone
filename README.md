@@ -4,7 +4,7 @@ A frontend web development capstone project built with HTML, CSS, and JavaScript
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Status](#status)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
@@ -13,9 +13,9 @@ A frontend web development capstone project built with HTML, CSS, and JavaScript
 - [License](#license)
 - [Author](#author)
 
-## Overview
+## Status
 
-This project demonstrates core frontend skills including semantic markup, responsive layout, accessible UI patterns, and clean JavaScript. Development is guided by conventional Git practices and AI-assisted workflows in Cursor.
+🚀 This project is actively being developed as part of the Flyrank AI Frontend Development Internship.
 
 ## Tech Stack
 
